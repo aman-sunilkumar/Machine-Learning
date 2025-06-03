@@ -66,7 +66,7 @@ To run any project:
 ```bash
 git clone https://github.com/your-username/machine_learning.git
 
-## 📌 Goals
+### 📌 Goals
 
 ✅ Apply machine learning to real-world datasets
 ✅ Build explainable and effective predictive models
