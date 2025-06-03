@@ -4,6 +4,16 @@ Welcome to my **Machine Learning** project repository — a curated collection o
 
 Each project in this repository demonstrates the complete lifecycle of a machine learning solution — from data cleaning and EDA to model deployment and evaluation — tailored to practical use cases in marketing, credit risk, telecom, and more.
 
+### 📌 Goals
+
+✅ Apply machine learning to real-world datasets
+✅ Build explainable and effective predictive models
+✅ Practice end-to-end ML workflows
+✅ Deliver business insights through data
+
+📧 Contact
+For inquiries or collaborations, feel free to reach out via LinkedIn (https://www.linkedin.com/in/amansunilkumar/)
+
 ---
 
 ## 📂 Project Structure
@@ -65,14 +75,3 @@ To run any project:
 1. Clone this repo:
 ```bash
 git clone https://github.com/your-username/machine_learning.git
-
-### 📌 Goals
-
-✅ Apply machine learning to real-world datasets
-✅ Build explainable and effective predictive models
-✅ Practice end-to-end ML workflows
-✅ Deliver business insights through data
-
-
-📧 Contact
-For inquiries or collaborations, feel free to reach out via LinkedIn (https://www.linkedin.com/in/amansunilkumar/)
