@@ -6,10 +6,10 @@ Each project in this repository demonstrates the complete lifecycle of a machine
 
 ### 📌 Goals
 
-✅ Apply machine learning to real-world datasets
-✅ Build explainable and effective predictive models
-✅ Practice end-to-end ML workflows
-✅ Deliver business insights through data
+- ✅ Apply machine learning to real-world datasets
+- ✅ Build explainable and effective predictive models
+- ✅ Practice end-to-end ML workflows
+- ✅ Deliver business insights through data
 
 📧 Contact
 For inquiries or collaborations, feel free to reach out via LinkedIn (https://www.linkedin.com/in/amansunilkumar/)
